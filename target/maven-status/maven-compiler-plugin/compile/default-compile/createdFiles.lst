@@ -1,0 +1,4 @@
+br\com\app\controllers\Inicial.class
+br\com\app\ConfigSpringBoot.class
+br\com\app\models\Convidado.class
+br\com\app\repository\ConvidadoRepository.class
